@@ -52,7 +52,7 @@ export default function App() {
     /** concept 3 is onchange */
     <div className="App">
       <header>
-        <h3>WhatEmoji</h3>
+        <h3>What Emoji it is?</h3>
       </header>
       <input
         onChange={changeHandler}
